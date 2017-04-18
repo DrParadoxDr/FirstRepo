@@ -1,0 +1,1 @@
+print("Hello men, I fuck your mum ^_^");
